@@ -1,1 +1,1 @@
-# Will add various python scripts as i learn
+# Will add various python scripts as I learn
